@@ -34,3 +34,12 @@ Installation:
 2) Make sure you have a local server environment (e.g., XAMPP or WAMP) to run PHP files.
 3) Place the project in your server's root directory.
 4) Open the project in your browser to start generating marklists.
+
+
+![image](https://github.com/user-attachments/assets/d0f821c6-7594-4b0b-8fef-a40d49b23cda)
+
+
+
+![image](https://github.com/user-attachments/assets/e0be7ab1-1b33-4d20-920c-763e5447f6c0)
+
+
